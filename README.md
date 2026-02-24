@@ -120,6 +120,6 @@ On Windows use `mvnw.cmd` instead of `./mvnw`.
 ## Git Setup for New Repository
 
 ```bash
-git remote add origin https://github.com/<your-username>/<your-new-repo>.git
+git remote add origin https://github.com/<Jayasrikaranam162>/<your-new-repo>.git
 git push -u origin main
 ```
