@@ -117,9 +117,3 @@ On Windows use `mvnw.cmd` instead of `./mvnw`.
 
 - `POST /posts/{postId}` - like post (authenticated)
 
-## Git Setup for New Repository
-
-```bash
-git remote add origin https://github.com/<Jayasrikaranam162>/<your-new-repo>.git
-git push -u origin main
-```
